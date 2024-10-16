@@ -1,0 +1,51 @@
+customer_id,customer_name,join_date,location
+105,Eva,2022-01-01,Ohio
+106,Frank,2022-02-01,Nevada
+107,Grace,2022-03-01,Colorado
+108,Henry,2022-04-01,Utah
+109,Summer,2023-01-16,Minnesota
+110,Michael,2023-08-16,Tennessee
+111,James,2023-11-15,Michigan
+112,Kimberly,2022-03-24,Vermont
+113,Lindsay,2023-10-23,New Jersey
+114,Amy,2023-03-06,Connecticut
+115,Brian,2023-02-14,South Carolina
+116,Vanessa,2022-11-27,Kentucky
+117,Steve,2022-06-21,Indiana
+118,Tina,2023-08-10,Indiana
+119,Parker,2022-09-03,Wisconsin
+120,Thomas,2023-06-23,Kansas
+121,Jane,2023-05-01,New Jersey
+122,Melanie,2023-10-20,Arkansas
+123,Roger,2022-04-02,Hawaii
+124,Derek,2022-05-16,New Hampshire
+125,Jennifer,2023-08-20,Ohio
+126,Ernest,2022-04-21,Mississippi
+127,Erin,2023-08-30,Illinois
+128,Julie,2023-12-18,Ohio
+129,Ronald,2023-05-17,Utah
+130,Justin,2023-06-22,Connecticut
+131,Beth,2023-12-01,Wyoming
+132,Jessica,2022-04-23,Hawaii
+133,Brian,2023-12-02,Mississippi
+134,Brandi,2023-09-18,California
+135,Heather,2022-02-12,Wyoming
+136,Adrian,2023-04-04,Arizona
+137,Edward,2022-06-11,Connecticut
+138,Jonathan,2023-12-24,West Virginia
+139,Amber,2022-07-25,Nebraska
+140,Michael,2023-10-05,Virginia
+141,Barbara,2023-11-22,Alabama
+142,Christopher,2023-06-12,Washington
+143,Barbara,2023-12-28,Kentucky
+144,Theresa,2023-04-16,Mississippi
+145,Kenneth,2023-01-13,Washington
+146,Martin,2023-03-11,Utah
+147,Molly,2022-01-28,Massachusetts
+148,Ryan,2023-12-29,Colorado
+149,George,2023-04-02,North Dakota
+150,Christopher,2023-02-28,Rhode Island
+151,Stephen,2023-01-31,Ohio
+152,Robert,2022-05-08,Hawaii
+153,Justin,2023-12-08,Colorado
+154,Carolyn,2023-05-11,Louisiana
